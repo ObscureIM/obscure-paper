@@ -1,0 +1,26 @@
+{
+  "name": "paper-obscure",
+  "version": "1.0.0",
+  "description": "Paper wallet generator for obscure",
+  "main": "init.js",
+  "scripts": {
+    "test": "node init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObscureIM/paper-turtle.git"
+  },
+  "keywords": [
+    "paper",
+    "wallet"
+  ],
+  "author": "PausCrypto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ObscureIM/paper-turtle/issues"
+  },
+  "homepage": "https://github.com/ObscureIM/paper-turtle#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
